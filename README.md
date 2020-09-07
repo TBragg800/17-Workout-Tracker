@@ -8,6 +8,7 @@
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-brightgreen.svg)
 ![GitHub repo size](https://img.shields.io/github/repo-size/TBragg800/17-Workout-Tracker)
+![GitHub last commit](https://img.shields.io/github/last-commit/TBragg800/17-Workout-Tracker)
 
 ## Walkthrough Video Demonstration: 
 # <p align="center">![Walkthrough](./public/Fitness-Tracker.gif)</p>
