@@ -10,7 +10,7 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/TBragg800/17-Workout-Tracker)
 
 ## Walkthrough Video Demonstration: 
-![Walkthrough](./public/Fitness-Tracker.gif)
+# <p align="center">![Walkthrough](./public/Fitness-Tracker.gif)</p>
 * YouTube link to the 
 [walkthrough](https://youtu.be/iC-ADLtSXD4)
 
