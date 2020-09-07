@@ -75,4 +75,4 @@ SOFTWARE.
   Github: [TBragg800](http://github.com/TBragg800)
 
 ## Screenshot of deployed application
-![#+ATTR_HTML: :style margin-left: auto; margin-right: auto;](./public/Fitness-Tracker-1.png)
+#+html: <p align="center">![](./public/Fitness-Tracker-1.png)</p>
