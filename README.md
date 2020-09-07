@@ -31,15 +31,17 @@
   [Questions](#Questions)
   
 ## Description
-
+This application is a workout tracker for users who want to be able to view create and track daily workouts, log multiple exercises in a workout on a given day, be able to track the name, type, weight, sets, reps, and duration of exercise. If the exercise is a cardio exercise, the user is able to track the distance traveled. This application was created in node using Express for route handling, a MongoDB Database and a Mongoose ODM for data mangement.  
 
 ![](./public/Fitness-Tracker-3.png)
 ## Installation
 
 
-## Usage
-
-
+## Usage - Local
+* Begin by cloning the repo locally.
+* Using the CLI, the user should navigate to the project directory and run 'npm install'.
+* Use MongoDB for database handling.
+* For non-local usage see heroku deployed site link above.
 
 ## License
   MIT License
