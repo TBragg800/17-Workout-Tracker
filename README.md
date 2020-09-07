@@ -1,5 +1,5 @@
 # 17-Workout-Tracker
-
+![](./public/Fitness-Tracker-2.png)
 ##  Repository: 
 [Github Workout Tracker](https://github.com/TBragg800/17-Workout-Tracker)
 
@@ -32,6 +32,7 @@
 ## Description
 
 
+![](./public/Fitness-Tracker-3.png)
 ## Installation
 
 
@@ -74,4 +75,4 @@ SOFTWARE.
   Github: [TBragg800](http://github.com/TBragg800)
 
 ## Screenshot of deployed application
-![](./public/assets/)
+![](./public/Fitness-Tracker-1.png)
